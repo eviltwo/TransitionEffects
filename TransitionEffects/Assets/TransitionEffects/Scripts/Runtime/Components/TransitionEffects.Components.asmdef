@@ -1,0 +1,16 @@
+{
+    "name": "TransitionEffects.Components",
+    "rootNamespace": "TransitionEffects.Components",
+    "references": [
+        "GUID:822ea1ec95a3eef4ea7d229d520f3ad8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
